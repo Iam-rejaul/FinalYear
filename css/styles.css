@@ -17,7 +17,7 @@
 }
 
 #confidence{
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Times New Roman', serif;
   margin-top: 7.5%;
 }
 
@@ -31,11 +31,11 @@
    text-align: center;
    position: relative;
    color: honeydew;
-   background-color: greenyellow;
+   background-color: yellow;
    padding-top: 1%;
    padding-bottom: 1%;
    font-weight: bold;
-   font-family: 'Prompt', sans-serif;
+   font-family: 'Papyrus', fantasy;
    
 }
 
@@ -50,7 +50,7 @@
 
 #predict_button{
   margin-right: 15px;
-  color: blue;
+  color: lime;
   font-weight: bold;
 }
 
