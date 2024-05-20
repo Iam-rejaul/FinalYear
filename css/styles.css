@@ -39,13 +39,13 @@
    
 }
 
-#footer{
+/*#footer{
   text-align: center;
   background-color: #292b2c;
   color: #fff;
   padding-top: 1%;
   padding-bottom: 0%;
-}
+}*/
 
 
 #predict_button{
@@ -128,9 +128,9 @@
     object-fit: cover;
 }
 
-.social-media-icons{
+/*.social-media-icons{
   margin: 10px 40px;
-}
+}*/
 
 .source-column{
   padding: 3% 2%;
