@@ -50,12 +50,12 @@
 
 #predict_button{
   margin-right: 15px;
-  color: lime;
+  color: crimson;
   font-weight: bold;
 }
 
 #prediction_heading{
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Times New Roman', serif;
   margin-top: 7.5%;
 }
 
